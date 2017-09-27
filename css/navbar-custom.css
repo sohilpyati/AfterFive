@@ -119,3 +119,17 @@
 #options:hover {
 	background-color: rgb(221, 255, 214);
 }
+.Rounded_Rectangle_2 {
+  background-color: rgb(106, 79, 134);
+  z-index: 41;
+  border-radius: 30px;
+}
+.NEXT {
+  font-size: 25px;
+  font-family: "Montserrat";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  text-align: center;
+  z-index: 42;
+}
+
