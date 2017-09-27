@@ -13,6 +13,116 @@
   text-align: left;
   padding-bottom: 4%;
 }
+._1_ {
+  font-size: 44.556px;
+  font-family: "Montserrat";
+  color: rgb(255, 255, 255);
+  text-align: center;
+  -moz-transform: matrix( 0.91060126582278,0,0,0.91115702479339,0,0);
+  -webkit-transform: matrix( 0.91060126582278,0,0,0.91115702479339,0,0);
+  -ms-transform: matrix( 0.91060126582278,0,0,0.91115702479339,0,0);
+  left: 476.991px;
+  top: 100%;
+  padding-top: 25%;
+  z-index: 10;
+}
+.Ellipse_2 {
+  border-radius: 50%;
+  background-color: rgb(106, 79, 134);
+  width: 79px;
+  height: 79px;
+  z-index: 9;
+}
+.Question {
+  font-size: 41.705px;
+  font-family: "Montserrat";
+  color: rgb(57, 57, 57);
+  line-height: 1.736;
+  text-align: left;
+  -moz-transform: matrix( 0.91060126582278,0,0,0.91115702479339,0,0);
+  -webkit-transform: matrix( 0.91060126582278,0,0,0.91115702479339,0,0);
+  -ms-transform: matrix( 0.91060126582278,0,0,0.91115702479339,0,0);
+  left: 605.7px;
+  top: 317.233px;
+  /*height: 38.4px;*/
+  z-index: 8;
+}
+.Ellipse_3 {
+  background-color: rgb(158, 117, 201);
+  border-radius: 50%;
+  width: 61px;
+  height: 60px;
+  z-index: 19;
+  margin-top: 25px;
+}
+.option_ellipse {
+  font-size: 39px;
+  font-family: "Montserrat";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 0.91060126582278,0,0,0.91115702479339,0,0);
+  -webkit-transform: matrix( 0.91060126582278,0,0,0.91115702479339,0,0);
+  -ms-transform: matrix( 0.91060126582278,0,0,0.91115702479339,0,0);
+  left: 478.844px;
+  top: 434.108px;
+  z-index: 20;
+}
+.Option {
+  font-size: 33px;
+  font-family: "Montserrat";
+  color: rgb(60, 60, 60);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 0.91060126582278,0,0,0.91115702479339,0,0);
+  -webkit-transform: matrix( 0.91060126582278,0,0,0.91115702479339,0,0);
+  -ms-transform: matrix( 0.91060126582278,0,0,0.91115702479339,0,0);
+  left: 559.446px;
+  top: 435.89px;
+  height: 150px;
+  z-index: 21;
+  margin-top: 25px;
+}
+.Rectangle_3 {
+  background-color: rgb(221, 255, 214);
+  left: 957px;
+  top: 528px;
+  width: 569px;
+  height: 134px;
+  z-index: 11;
+}
+.btn-primary-outline {
+  background-color: transparent;
+}
+.Vertical_Line {
+  background-color: rgb(198, 198, 198);
+  width: 2px;
+  height: 276px;
+  z-index: 16;
+}
+.border_left {
+	border-left:2px solid;
+	color: rgb(198, 198, 198);
+}
+.border_top {
+	border-top:2px solid;
+	color: rgb(198, 198, 198);
+}
+.border_bottom {
+	border-bottom:2px solid;
+	color: rgb(198, 198, 198);
+}
+.border_right {
+	border-right:2px solid;
+	color: rgb(198, 198, 198);
+}
+
+
+
+
+
+
+
 
 
 
