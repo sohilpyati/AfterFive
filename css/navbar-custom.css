@@ -116,13 +116,6 @@
 	border-right:2px solid;
 	color: rgb(198, 198, 198);
 }
-
-
-
-
-
-
-
-
-
-
+#options:hover {
+	background-color: rgb(221, 255, 214);
+}
